@@ -1,4 +1,5 @@
-This project is a Youtube player built on JavaScript's Reactjs framework. It searches the Youtube database using Youtube's provided API and returns the first five videos matching that query. The default landing page displays results and the first video returned from the query: 'wild west movies'.
+# Youtube Player
+This project is a Youtube player built on JavaScript's Reactjs framework. It searches the Youtube database using Youtube's provided API and returns the first five videos matching that query. The initial landing page displays results and the first video returned from the default query: 'wild west movies'.
 
 Currently hosted on gh pages: https://arafhossain.github.io/React-Youtube-Player/
 - - -
